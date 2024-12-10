@@ -18,6 +18,11 @@ print("Hello "+name)
 
 #type conversion 
 
+#int()
+#float()
+#str()
+#bool()
+
 old_age= input("Enter your age : ")
 
 new_age= int(old_age)+2 
