@@ -5,4 +5,5 @@ print(5*2)
 print(5**2)
 print(5//2)
 
-#operator presedance 
+#operator presedance -> allowed the bodmas rule and brackets 
+
